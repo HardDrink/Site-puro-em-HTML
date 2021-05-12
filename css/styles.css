@@ -1,0 +1,18 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    margin: auto;
+}
+
+#minhafoto {
+    width: 180px;
+    position: relative;
+    display: block;
+    margin: auto;
+    border-radius: 40px
+}
+#nome {
+    position: relative;
+    left: 40%;
+}
